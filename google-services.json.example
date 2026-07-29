@@ -1,0 +1,3 @@
+{
+  "note": "Do not use this file as real credentials. Create your own Firebase Android app and place the downloaded google-services.json at app/google-services.json. The build applies the Google Services plugin automatically only when that real file exists."
+}
